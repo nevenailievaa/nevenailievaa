@@ -13,3 +13,25 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+--- 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600" height="300"/>
+</div>
+:woman_technologist: About Me:
+
+- :telescope: I'm currently learning C# and really liking it.
+
+- :zap: I solve problems, read books and play computer games.
+
+- :seedling: Beyond programming, I in fact love exploring the wild life. My favourite animals are leopard, gepard and tiger.
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+</div>
+  
