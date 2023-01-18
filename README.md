@@ -25,7 +25,7 @@
 
 - :zap: I solve problems, read books and play computer games.
 
-- :seedling: Beyond programming, I in fact love exploring the wild life. My favourite animals are leopard, gepard and tiger.
+- :seedling: Beyond programming, I in fact love exploring the wild life. My favourite animals are leopard, cheetah and tiger.
 
 ---
 
