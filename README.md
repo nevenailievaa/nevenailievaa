@@ -24,15 +24,18 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<div align="center">
 <br>
 :woman_technologist: <strong>About Me:<strong/>
 
-- :telescope: I'm currently learning C# and really liking it.
+:telescope: I'm currently learning C# and really liking it.
 
-- :zap: I solve problems, read books and play computer games.
+:zap: I solve problems, read books and play computer games.
 
-- :seedling: Beyond programming, I in fact love exploring the wild life. My favourite animals are leopard, cheetah and tiger.
-
+:seedling: Beyond programming, I in fact love exploring the wild life. My favourite animals are leopard, cheetah and tiger.
+<div/>
+	
 <div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
