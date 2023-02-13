@@ -25,18 +25,19 @@
        alt="snake" /></a>
 </div>
 <br>
-:woman_technologist: About Me:
+:woman_technologist: <strong>About Me:<strong/>
 
 - :telescope: I'm currently learning C# and really liking it.
 
 - :zap: I solve problems, read books and play computer games.
 
 - :seedling: Beyond programming, I in fact love exploring the wild life. My favourite animals are leopard, cheetah and tiger.
+
+<div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-:hammer_and_wrench: Languages and Tools:
+:hammer_and_wrench: <strong>Languages and tools:<strong/>
 <br>
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
@@ -48,7 +49,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nevenafirkova&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevenafirkova&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/anuraghazra/github-readme-stats)
