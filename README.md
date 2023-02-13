@@ -49,7 +49,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nevenafirkova&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevenafirkova&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
+
+<div>
 <a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=nevenafirkova&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nevenafirkova&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> <a/>
+</div>
+<br>
+<div>
+<img src="https://github-profile-trophy.vercel.app/?username=nevenafirkova&theme=juicyfresh&no-bg=true" />
+</div>
