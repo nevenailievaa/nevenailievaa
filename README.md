@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=nevenafirkova&label=Profile%20views&color=FFAE00&style=plastic?" alt="nevenafirkova" height=25px, width=160px/> 
+<p/>
 
 --- 
 
