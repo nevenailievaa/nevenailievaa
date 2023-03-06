@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nevena-ilieva-27952b18a/">
