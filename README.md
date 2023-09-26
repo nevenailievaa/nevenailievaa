@@ -40,8 +40,7 @@
 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="[https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg](https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg)" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;	
+  <img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;	
   <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
